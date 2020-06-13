@@ -1,8 +1,6 @@
 <pre>
 <? php
 print("Welcome to PHP\n");
-print `date`;
-print("\n");
-print `ifconfig`;
+print("Mohd Bahaul Mustafa");
 ?>
 </pre>
